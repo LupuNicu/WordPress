@@ -1,0 +1,19 @@
+# WordPress — config cu parole locale
+wp-config.php
+
+# Încărcări media (mari, inutile în repo)
+wp-content/uploads/
+
+# Cache / temporare
+wp-content/cache/
+wp-content/upgrade/
+*.log
+
+# OS / IDE
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~

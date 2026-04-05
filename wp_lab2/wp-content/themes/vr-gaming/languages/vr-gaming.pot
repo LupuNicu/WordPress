@@ -1,0 +1,1776 @@
+# Copyright (C) 2025 misbahwp
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: VR Gaming 2.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/vr-gaming\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-08-11T07:55:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: vr-gaming\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "VR Gaming"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.misbahwp.com/products/free-vr-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The VR Gaming WordPress Theme is designed to offer an immersive platform for virtual reality enthusiasts, game developers, and gaming studios. As the demand for VR gaming experiences grows, this theme provides the perfect solution for creating captivating websites tailored to VR arcades, VR game developers, and content creators specializing in virtual reality. With its sleek, modern design, the VR Gaming WordPress Theme allows users to showcase a wide range of VR content, including adventure games, action-packed games, multiplayer experiences, and VR simulations. Whether you’re into VR horror, sci-fi, fantasy, or RPG games, the theme’s customization options make it easy to create a unique brand identity and online presence. Key benefits of this theme include VR headset integration, supporting devices like Oculus, HTC Vive, and PlayStation VR. It also features dedicated sections for promoting VR consoles and gaming accessories, along with space to showcase game trailers, user reviews, and VR gameplay videos. The theme’s versatility makes it perfect for VR escape rooms, VR action games, and VR adventure content. This fully responsive theme not only delivers stunning visuals but also provides a fully immersive VR website experience that will keep your audience engaged. It is feature-rich and SEO-optimized, making it easy to enhance your online presence, attract the right audience, and showcase the latest in VR gaming. Whether you’re promoting VR simulations, virtual sports, or a VR game studio, the VR Gaming WordPress Theme equips you with the tools to create a truly impactful digital experience."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "misbahwp"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.misbahwp.com/"
+msgstr ""
+
+#: 404.php:9
+msgid "404 Page"
+msgstr ""
+
+#: 404.php:21
+#: core/includes/customizer.php:239
+#: core/includes/customizer.php:287
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:22
+#: core/includes/customizer.php:255
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: archive.php:9
+#: index.php:9
+msgid "Archive Post"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:16
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:21
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:37
+#: comments.php:51
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39
+#: comments.php:53
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:40
+#: comments.php:54
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: core/includes/class-upgrade-pro.php:75
+msgid "Upgrade to VR Gaming PRO"
+msgstr ""
+
+#: core/includes/class-upgrade-pro.php:76
+msgid "Unlock premium features: Multiple Sections, Color Pallete, Typography, Premium Support and much more..."
+msgstr ""
+
+#: core/includes/class-upgrade-pro.php:77
+msgid "View VR Gaming PRO"
+msgstr ""
+
+#: core/includes/class-upgrade-pro.php:79
+msgid "Get All Themes In Single Pack"
+msgstr ""
+
+#: core/includes/customizer-notice/vr-gaming-customizer-notify.php:105
+msgid "Activating"
+msgstr ""
+
+#: core/includes/customizer.php:6
+#: core/includes/main.php:91
+msgid "https://www.misbahwp.com/products/vr-gaming-wordpress-theme"
+msgstr ""
+
+#: core/includes/customizer.php:14
+msgid "Adjust Your Logo Size "
+msgstr ""
+
+#: core/includes/customizer.php:27
+msgid "Enable / Disable Site Title and Tagline"
+msgstr ""
+
+#: core/includes/customizer.php:34
+msgid "Site Title Enable / Disable Button"
+msgstr ""
+
+#: core/includes/customizer.php:39
+#: core/includes/customizer.php:52
+#: core/includes/customizer.php:158
+#: core/includes/customizer.php:199
+#: core/includes/customizer.php:760
+#: core/includes/customizer.php:805
+#: core/includes/customizer.php:842
+#: core/includes/customizer.php:920
+#: core/includes/customizer.php:1003
+msgid "Enable"
+msgstr ""
+
+#: core/includes/customizer.php:40
+#: core/includes/customizer.php:53
+#: core/includes/customizer.php:159
+#: core/includes/customizer.php:200
+#: core/includes/customizer.php:761
+#: core/includes/customizer.php:806
+#: core/includes/customizer.php:843
+#: core/includes/customizer.php:921
+#: core/includes/customizer.php:1004
+msgid "Disable"
+msgstr ""
+
+#: core/includes/customizer.php:47
+msgid "Tagline Enable / Disable Button"
+msgstr ""
+
+#: core/includes/customizer.php:61
+msgid "Typography"
+msgstr ""
+
+#: core/includes/customizer.php:65
+msgid "Typography Option"
+msgstr ""
+
+#: core/includes/customizer.php:71
+#: core/includes/customizer.php:143
+#: core/includes/customizer.php:176
+#: core/includes/customizer.php:219
+#: core/includes/customizer.php:267
+#: core/includes/customizer.php:323
+#: core/includes/customizer.php:355
+#: core/includes/customizer.php:493
+#: core/includes/customizer.php:634
+#: core/includes/customizer.php:737
+#: core/includes/customizer.php:782
+#: core/includes/customizer.php:819
+#: core/includes/customizer.php:897
+#: core/includes/customizer.php:980
+msgid "INFORMATION ABOUT PREMIUM VERSION :-"
+msgstr ""
+
+#: core/includes/customizer.php:72
+#: core/includes/customizer.php:144
+#: core/includes/customizer.php:177
+#: core/includes/customizer.php:220
+#: core/includes/customizer.php:268
+#: core/includes/customizer.php:324
+#: core/includes/customizer.php:356
+#: core/includes/customizer.php:494
+#: core/includes/customizer.php:635
+#: core/includes/customizer.php:738
+#: core/includes/customizer.php:783
+#: core/includes/customizer.php:820
+#: core/includes/customizer.php:898
+#: core/includes/customizer.php:981
+#: core/includes/main.php:51
+msgid "GO TO PREMIUM"
+msgstr ""
+
+#: core/includes/customizer.php:75
+#: core/includes/customizer.php:327
+#: core/includes/customizer.php:359
+#: core/includes/customizer.php:497
+#: core/includes/customizer.php:638
+#: core/includes/customizer.php:741
+#: core/includes/customizer.php:786
+#: core/includes/customizer.php:823
+#: core/includes/customizer.php:901
+#: core/includes/customizer.php:984
+msgid "<p>1. One Click Demo Importer </p><p>2. More Font Family Options </p><p>3. Color Pallete Setup </p><p>4. Section Reordering Facility</p><p>5. For More Options kindly Go For Premium Version.</p>"
+msgstr ""
+
+#: core/includes/customizer.php:82
+msgid "Heading Of All Sections"
+msgstr ""
+
+#: core/includes/customizer.php:89
+msgid "Heading Typography"
+msgstr ""
+
+#: core/includes/customizer.php:90
+msgid "Select the typography options for your heading."
+msgstr ""
+
+#: core/includes/customizer.php:108
+msgid "Body Content"
+msgstr ""
+
+#: core/includes/customizer.php:115
+msgid "Content Typography"
+msgstr ""
+
+#: core/includes/customizer.php:116
+msgid "Select the typography options for your content."
+msgstr ""
+
+#: core/includes/customizer.php:133
+msgid "Theme Animations"
+msgstr ""
+
+#: core/includes/customizer.php:138
+msgid "Animations"
+msgstr ""
+
+#: core/includes/customizer.php:147
+#: core/includes/customizer.php:180
+#: core/includes/customizer.php:223
+#: core/includes/customizer.php:271
+msgid "<p>1. One Click Demo Importer </p><p>2. Color Pallete Setup </p><p>3. Section Reordering Facility</p><p>4. For More Options kindly Go For Premium Version.</p>"
+msgstr ""
+
+#: core/includes/customizer.php:153
+msgid "Turn To Show Animation"
+msgstr ""
+
+#: core/includes/customizer.php:166
+msgid "Theme Dark Mode"
+msgstr ""
+
+#: core/includes/customizer.php:171
+msgid "Dark Mode"
+msgstr ""
+
+#: core/includes/customizer.php:187
+msgid "Dark Appearance"
+msgstr ""
+
+#: core/includes/customizer.php:194
+msgid "Turn To Dark Mode"
+msgstr ""
+
+#: core/includes/customizer.php:208
+msgid "404 Settings / No Result"
+msgstr ""
+
+#: core/includes/customizer.php:214
+msgid "404 Settings"
+msgstr ""
+
+#: core/includes/customizer.php:231
+msgid "404 Heading"
+msgstr ""
+
+#: core/includes/customizer.php:247
+msgid "404 Content"
+msgstr ""
+
+#: core/includes/customizer.php:262
+msgid "No Result Page Settings"
+msgstr ""
+
+#: core/includes/customizer.php:279
+msgid "No Search Result Heading"
+msgstr ""
+
+#: core/includes/customizer.php:295
+msgid "No Search Result Content"
+msgstr ""
+
+#: core/includes/customizer.php:303
+#: nothing-found.php:6
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: core/includes/customizer.php:311
+msgid "Theme Options"
+msgstr ""
+
+#: core/includes/customizer.php:317
+msgid "Global Color"
+msgstr ""
+
+#: core/includes/customizer.php:334
+msgid "Here you can change your theme color on one click."
+msgstr ""
+
+#: core/includes/customizer.php:341
+msgid "Choose Your First Color"
+msgstr ""
+
+#: core/includes/customizer.php:349
+msgid "Additional Settings"
+msgstr ""
+
+#: core/includes/customizer.php:365
+msgid "Here you can enable or disable your scroller."
+msgstr ""
+
+#: core/includes/customizer.php:374
+msgid "Alignment for Scroll To Top"
+msgstr ""
+
+#: core/includes/customizer.php:379
+#: core/includes/customizer.php:616
+msgid "Left"
+msgstr ""
+
+#: core/includes/customizer.php:380
+#: core/includes/customizer.php:617
+msgid "Center"
+msgstr ""
+
+#: core/includes/customizer.php:381
+#: core/includes/customizer.php:618
+msgid "Right"
+msgstr ""
+
+#: core/includes/customizer.php:389
+msgid "Select Appropriate Scroll Top Icon"
+msgstr ""
+
+#: core/includes/customizer.php:398
+msgid "Menus Text Transform"
+msgstr ""
+
+#: core/includes/customizer.php:401
+#: core/includes/customizer.php:416
+#: core/includes/customizer.php:452
+#: core/includes/customizer.php:474
+#: core/includes/customizer.php:589
+#: core/includes/customizer.php:602
+#: core/includes/customizer.php:686
+#: core/includes/customizer.php:704
+#: core/includes/customizer.php:717
+#: core/includes/customizer.php:1038
+msgid "Choose an option"
+msgstr ""
+
+#: core/includes/customizer.php:403
+msgid "CAPITALISE"
+msgstr ""
+
+#: core/includes/customizer.php:404
+msgid "UPPERCASE"
+msgstr ""
+
+#: core/includes/customizer.php:405
+msgid "LOWERCASE"
+msgstr ""
+
+#: core/includes/customizer.php:413
+msgid "Menu Transition"
+msgstr ""
+
+#: core/includes/customizer.php:418
+msgid "Zoom Out"
+msgstr ""
+
+#: core/includes/customizer.php:419
+msgid "Zoom Inn"
+msgstr ""
+
+#: core/includes/customizer.php:427
+msgid "Theme Container Width"
+msgstr ""
+
+#: core/includes/customizer.php:440
+msgid "Here you can enable or disable your Site Loader."
+msgstr ""
+
+#: core/includes/customizer.php:449
+msgid "Preloader Type"
+msgstr ""
+
+#: core/includes/customizer.php:454
+msgid "Type 1"
+msgstr ""
+
+#: core/includes/customizer.php:455
+msgid "Type 2"
+msgstr ""
+
+#: core/includes/customizer.php:462
+msgid "Here you can enable or disable your Sticky Header."
+msgstr ""
+
+#: core/includes/customizer.php:471
+msgid "Page Layout Setting"
+msgstr ""
+
+#. Template Name of the theme
+#: core/includes/customizer.php:476
+#: core/includes/customizer.php:591
+#: core/includes/customizer.php:604
+#: core/includes/customizer.php:688
+#: core/includes/customizer.php:706
+#: core/includes/customizer.php:719
+msgid "Left Sidebar"
+msgstr ""
+
+#: core/includes/customizer.php:477
+#: core/includes/customizer.php:592
+#: core/includes/customizer.php:605
+#: core/includes/customizer.php:689
+#: core/includes/customizer.php:707
+#: core/includes/customizer.php:720
+msgid "Right Sidebar"
+msgstr ""
+
+#: core/includes/customizer.php:478
+msgid "One Column"
+msgstr ""
+
+#: core/includes/customizer.php:487
+msgid "Woocommerce Settings"
+msgstr ""
+
+#: core/includes/customizer.php:503
+msgid "Here you can enable or disable shop page sidebar."
+msgstr ""
+
+#: core/includes/customizer.php:512
+msgid "Here you can enable or disable product page sidebar."
+msgstr ""
+
+#: core/includes/customizer.php:521
+msgid "Here you can enable or disable your related products."
+msgstr ""
+
+#: core/includes/customizer.php:530
+msgid "Product Per Row"
+msgstr ""
+
+#: core/includes/customizer.php:544
+msgid "Product Per Page"
+msgstr ""
+
+#: core/includes/customizer.php:558
+msgid "Related Product Per Column"
+msgstr ""
+
+#: core/includes/customizer.php:572
+msgid "Related Product Per Page"
+msgstr ""
+
+#: core/includes/customizer.php:586
+msgid "Shop Page Layout Setting"
+msgstr ""
+
+#: core/includes/customizer.php:599
+msgid "Product Page Layout Setting"
+msgstr ""
+
+#: core/includes/customizer.php:611
+msgid "Woocommerce Pagination Alignment"
+msgstr ""
+
+#: core/includes/customizer.php:628
+msgid "Post Settings"
+msgstr ""
+
+#: core/includes/customizer.php:644
+msgid "Archive Post Page Element Reordering"
+msgstr ""
+
+#: core/includes/customizer.php:645
+msgid "This setting is not favorable with post format."
+msgstr ""
+
+#: core/includes/customizer.php:649
+msgid "Post Image"
+msgstr ""
+
+#: core/includes/customizer.php:650
+msgid "Post Meta"
+msgstr ""
+
+#: core/includes/customizer.php:651
+msgid "Post Title"
+msgstr ""
+
+#: core/includes/customizer.php:652
+msgid "Post Content"
+msgstr ""
+
+#: core/includes/customizer.php:653
+msgid "Post Categories"
+msgstr ""
+
+#: core/includes/customizer.php:661
+msgid "Post Content Range"
+msgstr ""
+
+#: core/includes/customizer.php:674
+msgid "Here you can enable or disable your Pagination."
+msgstr ""
+
+#: core/includes/customizer.php:683
+msgid "Archive Post Sidebar Layout Setting"
+msgstr ""
+
+#: core/includes/customizer.php:690
+#: core/includes/customizer.php:721
+msgid "Three Column"
+msgstr ""
+
+#: core/includes/customizer.php:691
+#: core/includes/customizer.php:722
+msgid "Four Column"
+msgstr ""
+
+#: core/includes/customizer.php:692
+#: core/includes/customizer.php:723
+msgid "Grid Layout Without Sidebar"
+msgstr ""
+
+#: core/includes/customizer.php:693
+#: core/includes/customizer.php:724
+msgid "Grid Layout With Right Sidebar"
+msgstr ""
+
+#: core/includes/customizer.php:694
+#: core/includes/customizer.php:725
+msgid "Grid Layout With Left Sidebar"
+msgstr ""
+
+#: core/includes/customizer.php:701
+msgid "Single Post Sidebar Layout Setting"
+msgstr ""
+
+#: core/includes/customizer.php:714
+msgid "Search Page Sidebar Layout Setting"
+msgstr ""
+
+#: core/includes/customizer.php:731
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: core/includes/customizer.php:748
+msgid "Enable / Disable Single Page Breadcrumb"
+msgstr ""
+
+#: core/includes/customizer.php:755
+msgid "Breadcrumb Enable / Disable"
+msgstr ""
+
+#: core/includes/customizer.php:769
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: core/includes/customizer.php:776
+msgid "Header Settings"
+msgstr ""
+
+#: core/includes/customizer.php:793
+msgid "Enable / Disable Search Box"
+msgstr ""
+
+#: core/includes/customizer.php:800
+msgid "Search Enable / Disable Button"
+msgstr ""
+
+#: core/includes/customizer.php:813
+msgid "Slider Settings"
+msgstr ""
+
+#: core/includes/customizer.php:830
+msgid "Enable / Disable Slider"
+msgstr ""
+
+#: core/includes/customizer.php:837
+#: core/includes/customizer.php:915
+#: core/includes/customizer.php:998
+msgid "Section Enable / Disable"
+msgstr ""
+
+#: core/includes/customizer.php:851
+msgid "Slider"
+msgstr ""
+
+#: core/includes/customizer.php:858
+msgid "Upload Slider Image"
+msgstr ""
+
+#: core/includes/customizer.php:867
+msgid "Number of slides to show"
+msgstr ""
+
+#: core/includes/customizer.php:880
+msgid "Select the category to show slider ( Image Dimension 1600 x 600 )"
+msgstr ""
+
+#: core/includes/customizer.php:883
+msgid "Select an category..."
+msgstr ""
+
+#: core/includes/customizer.php:891
+msgid "Our Products Settings"
+msgstr ""
+
+#: core/includes/customizer.php:908
+msgid "Enable / Disable Products Section"
+msgstr ""
+
+#: core/includes/customizer.php:929
+msgid "Our Products Headings"
+msgstr ""
+
+#: core/includes/customizer.php:936
+msgid "Main Short Heading"
+msgstr ""
+
+#: core/includes/customizer.php:944
+msgid "Main Heading"
+msgstr ""
+
+#: core/includes/customizer.php:953
+msgid "Hot Products"
+msgstr ""
+
+#: core/includes/customizer.php:960
+msgid "Number of products to show"
+msgstr ""
+
+#: core/includes/customizer.php:973
+msgid "Footer Settings"
+msgstr ""
+
+#: core/includes/customizer.php:974
+msgid "Here you can change copyright text"
+msgstr ""
+
+#: core/includes/customizer.php:991
+msgid "Enable / Disable Footer Link"
+msgstr ""
+
+#: core/includes/customizer.php:1012
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: core/includes/customizer.php:1028
+msgid "Footer Copyright Alignment"
+msgstr ""
+
+#: core/includes/customizer.php:1035
+msgid "Copyright text Alignment"
+msgstr ""
+
+#: core/includes/customizer.php:1040
+msgid "LEFT-ALIGN"
+msgstr ""
+
+#: core/includes/customizer.php:1041
+msgid "CENTER-ALIGN"
+msgstr ""
+
+#: core/includes/customizer.php:1042
+msgid "RIGHT-ALIGN"
+msgstr ""
+
+#: core/includes/customizer.php:1051
+msgid "Footer Copyright Background Color"
+msgstr ""
+
+#: core/includes/customizer.php:1058
+msgid "Choose Your Copyright Background Color"
+msgstr ""
+
+#: core/includes/customizer.php:1067
+msgid "Social Media Link"
+msgstr ""
+
+#: core/includes/customizer.php:1077
+msgid "Footer Social Icon"
+msgstr ""
+
+#: core/includes/customizer.php:1080
+msgid "Add New Social Icon"
+msgstr ""
+
+#: core/includes/customizer.php:1086
+msgid "Icon"
+msgstr ""
+
+#: core/includes/customizer.php:1087
+msgid "Add the fontawesome class ex: \"fab fa-facebook-f\"."
+msgstr ""
+
+#: core/includes/customizer.php:1092
+msgid "Social Link"
+msgstr ""
+
+#: core/includes/customizer.php:1093
+msgid "Add the social icon url here."
+msgstr ""
+
+#: core/includes/customizer.php:1132
+msgid "You have to select product category to show product section."
+msgstr ""
+
+#: core/includes/customizer.php:1138
+msgid "Select category to display products "
+msgstr ""
+
+#. translators: %s: plugin name
+#: core/includes/customizer.php:1153
+msgid "If you want to show all the sections of the FrontPage, please install and activate %s plugin"
+msgstr ""
+
+#: core/includes/customizer.php:1154
+msgid "Kirki Customizer"
+msgstr ""
+
+#: core/includes/customizer.php:1159
+msgid "Recommended Actions"
+msgstr ""
+
+#: core/includes/customizer.php:1160
+msgid "Recommended Plugin"
+msgstr ""
+
+#: core/includes/customizer.php:1161
+msgid "Install and Activate"
+msgstr ""
+
+#: core/includes/customizer.php:1162
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2722
+msgid "Activate"
+msgstr ""
+
+#: core/includes/customizer.php:1163
+msgid "Deactivate"
+msgstr ""
+
+#: core/includes/demo-import.php:16
+#: core/includes/importer/whizzie.php:619
+msgid "Home"
+msgstr ""
+
+#: core/includes/demo-import.php:23
+msgid "Shop"
+msgstr ""
+
+#: core/includes/demo-import.php:30
+msgid "Products"
+msgstr ""
+
+#: core/includes/demo-import.php:37
+msgid "Blog"
+msgstr ""
+
+#: core/includes/demo-import.php:44
+msgid "Page"
+msgstr ""
+
+#: core/includes/importer/config.php:36
+#: core/includes/importer/whizzie.php:313
+msgid "Welcome to "
+msgstr ""
+
+#: core/includes/importer/config.php:38
+#: core/includes/importer/whizzie.php:317
+msgid "Start Now"
+msgstr ""
+
+#: core/includes/importer/config.php:43
+#: core/includes/importer/whizzie.php:322
+msgid "Plugins"
+msgstr ""
+
+#: core/includes/importer/config.php:45
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:328
+#: core/includes/importer/whizzie.php:326
+msgid "Install Plugins"
+msgstr ""
+
+#: core/includes/importer/config.php:50
+#: core/includes/importer/whizzie.php:331
+msgid "Demo Importer"
+msgstr ""
+
+#: core/includes/importer/config.php:52
+#: core/includes/importer/whizzie.php:335
+msgid "Import Demo"
+msgstr ""
+
+#: core/includes/importer/config.php:57
+#: core/includes/importer/whizzie.php:340
+msgid "All Done"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:386
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:823
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2529
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3576
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:387
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3155
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:388
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2948
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:930
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:930
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:933
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:933
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:1117
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2944
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:1978
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2269
+#: woocommerce/myaccount/form-login.php:39
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:79
+#: woocommerce/myaccount/form-login.php:86
+#: woocommerce/myaccount/form-login.php:93
+msgid "Required"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2272
+msgid "Recommended"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2288
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2291
+msgid "External Source"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2294
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2311
+msgid "Not Installed"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2315
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2317
+msgid "Active"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2323
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2326
+msgid "Requires Update"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2329
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2338
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2384
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2388
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2392
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2396
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2478
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2486
+msgid "Installed version:"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2494
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2506
+msgid "Available version:"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2529
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2543
+msgid "Plugin"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2544
+msgid "Source"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2545
+msgid "Type"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2549
+msgid "Version"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2550
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2599
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2604
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2610
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2680
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2713
+msgid "Install"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2719
+msgid "Update"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2904
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:2930
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3154
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3494
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3497
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3499
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3505
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3505
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3513
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3505
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3513
+msgid "Hide Details"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3506
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3508
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3511
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3513
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3514
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/includes/importer/tgm/class-tgm-plugin-activation.php:3516
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/includes/importer/tgm/tgm.php:6
+msgid "Kirki Customizer Framework"
+msgstr ""
+
+#: core/includes/importer/tgm/tgm.php:12
+msgid "Woocommerce"
+msgstr ""
+
+#: core/includes/importer/tgm/tgm.php:18
+msgid "Mosaic Gallery Advanced Gallery"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:229
+msgid "More Info"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:252
+msgid "Skip"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:376
+msgid "Thank you for choosing this %s Theme. Using this quick setup wizard, you will be able to configure your new website and get it running in just a few minutes. Just follow these simple steps mentioned in the wizard and get started with your website."
+msgstr ""
+
+#: core/includes/importer/whizzie.php:382
+msgid "You may even skip the steps and get back to the dashboard if you have no time at the present moment. You can come back any time if you change your mind."
+msgstr ""
+
+#: core/includes/importer/whizzie.php:396
+msgid "Additional plugins always make your website exceptional. Install these plugins by clicking the install button. You may also deactivate them from the dashboard."
+msgstr ""
+
+#: core/includes/importer/whizzie.php:451
+msgid "This theme supports importing the demo content and adding widgets. Get them installed with the below button. Using the Customizer, it is possible to update or even deactivate them"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:461
+msgid "Awesome! You have Imported Your Website Successfully."
+msgstr ""
+
+#: core/includes/importer/whizzie.php:463
+msgid "FINISH"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:464
+msgid "VISIT SITE"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:510
+msgid "No Slug Found"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:527
+msgid "Activating Plugin"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:542
+msgid "Updating Plugin"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:557
+msgid "Installing Plugin"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:566
+msgid "Success"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:628
+msgid "Blogs"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:639
+#: footer.php:23
+#: sidebar.php:19
+msgid "Pages"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:646
+msgid "About Us"
+msgstr ""
+
+#: core/includes/importer/whizzie.php:653
+msgid "Contact Us"
+msgstr ""
+
+#: core/includes/main.php:32
+msgid "Thanks For Installing "
+msgstr ""
+
+#: core/includes/main.php:34
+msgid "Theme"
+msgstr ""
+
+#: core/includes/main.php:40
+msgid "%s is now installed and ready to use. We've provided some links to get you started."
+msgstr ""
+
+#: core/includes/main.php:48
+msgid "GET STARTED"
+msgstr ""
+
+#: core/includes/main.php:54
+#: core/includes/main.php:123
+msgid "ONE CLICK DEMO IMPORTER"
+msgstr ""
+
+#: core/includes/main.php:59
+msgid "logo"
+msgstr ""
+
+#: core/includes/main.php:71
+msgid "Get Started"
+msgstr ""
+
+#: core/includes/main.php:85
+msgid "https://demo.misbahwp.com/docs/vr-gaming-free-docs/"
+msgstr ""
+
+#: core/includes/main.php:88
+msgid "https://demo.misbahwp.com/docs/vr-gaming-pro-docs/"
+msgstr ""
+
+#: core/includes/main.php:94
+msgid "https://wordpress.org/support/theme/vr-gaming"
+msgstr ""
+
+#: core/includes/main.php:97
+msgid "https://wordpress.org/support/theme/vr-gaming/reviews/#new-post"
+msgstr ""
+
+#: core/includes/main.php:100
+msgid "https://demo.misbahwp.com/vr-gaming/"
+msgstr ""
+
+#: core/includes/main.php:103
+msgid "https://www.misbahwp.com/products/wordpress-bundle"
+msgstr ""
+
+#: core/includes/main.php:113
+msgid "Documentation"
+msgstr ""
+
+#: core/includes/main.php:114
+msgid "Customize"
+msgstr ""
+
+#: core/includes/main.php:115
+msgid "Support"
+msgstr ""
+
+#: core/includes/main.php:116
+msgid "Review"
+msgstr ""
+
+#: core/includes/main.php:119
+msgid "Welcome! Thank you for choosing "
+msgstr ""
+
+#: core/includes/main.php:119
+msgid "Version: "
+msgstr ""
+
+#: core/includes/main.php:121
+msgid "Import homepage demo in just one click."
+msgstr ""
+
+#: core/includes/main.php:122
+msgid "Get started with the wordpress theme installation"
+msgstr ""
+
+#: core/includes/main.php:137
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: core/includes/main.php:139
+msgid "Discover upgraded pro features with premium version click to upgrade."
+msgstr ""
+
+#: core/includes/main.php:141
+msgid "Go Pro"
+msgstr ""
+
+#: core/includes/main.php:142
+msgid "Live Demo"
+msgstr ""
+
+#: core/includes/main.php:143
+msgid "Pro Docs"
+msgstr ""
+
+#: core/includes/main.php:147
+msgid "Go For Theme Bundle"
+msgstr ""
+
+#: core/includes/main.php:149
+msgid "Get 100+ Perfect WordPress Theme In A Single Package at just $89.\""
+msgstr ""
+
+#: core/includes/main.php:150
+msgid "Get Our Theme Pack of 100+ WordPress Themes At 30% Off"
+msgstr ""
+
+#: core/includes/main.php:150
+msgid "\"Bundleup15\""
+msgstr ""
+
+#: core/includes/main.php:152
+msgid "Theme Bundle"
+msgstr ""
+
+#: core/includes/main.php:157
+msgid "Features"
+msgstr ""
+
+#: core/includes/main.php:158
+msgid "Pro"
+msgstr ""
+
+#: core/includes/main.php:159
+msgid "Free"
+msgstr ""
+
+#: core/includes/main.php:162
+msgid "24hrs Priority Support"
+msgstr ""
+
+#: core/includes/main.php:167
+msgid "LearnPress Campatiblity"
+msgstr ""
+
+#: core/includes/main.php:172
+msgid "Kirki Framework"
+msgstr ""
+
+#: core/includes/main.php:177
+msgid "Advance Posttype"
+msgstr ""
+
+#: core/includes/main.php:182
+msgid "One Click Demo Import"
+msgstr ""
+
+#: core/includes/main.php:187
+msgid "Section Reordering"
+msgstr ""
+
+#: core/includes/main.php:192
+msgid "Enable / Disable Option"
+msgstr ""
+
+#: core/includes/main.php:197
+msgid "Multiple Sections"
+msgstr ""
+
+#: core/includes/main.php:202
+msgid "Advance Color Pallete"
+msgstr ""
+
+#: core/includes/main.php:207
+msgid "Advance Widgets"
+msgstr ""
+
+#: core/includes/main.php:212
+msgid "Page Templates"
+msgstr ""
+
+#: core/includes/main.php:217
+msgid "Advance Typography"
+msgstr ""
+
+#: core/includes/main.php:222
+msgid "Section Background Image / Color "
+msgstr ""
+
+#: core/sections/slider.php:29
+msgid "Shop Now"
+msgstr ""
+
+#: footer.php:13
+#: sidebar.php:9
+msgid "Categories"
+msgstr ""
+
+#: footer.php:33
+#: sidebar.php:29
+msgid "Archives"
+msgstr ""
+
+#: footer.php:46
+msgid "Calendar"
+msgstr ""
+
+#: footer.php:63
+msgid "Gaming WordPress Theme"
+msgstr ""
+
+#. translators: %s: Misbah WP
+#: footer.php:75
+msgid " by %s"
+msgstr ""
+
+#. translators: %s: WordPress
+#: footer.php:77
+msgid " | Proudly powered by %s"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr ""
+
+#: functions.php:142
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:250
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:251
+#: functions.php:274
+msgid "Edit"
+msgstr ""
+
+#: functions.php:269
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:279
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:312
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:314
+#: functions.php:326
+#: functions.php:338
+msgid "This sidebar will be shown next to the content."
+msgstr ""
+
+#: functions.php:324
+msgid "Sidebar 2"
+msgstr ""
+
+#: functions.php:336
+msgid "Sidebar 3"
+msgstr ""
+
+#: functions.php:348
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php:350
+msgid "This sidebar will be shown next at the bottom of your content."
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: functions.php:472
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:30
+msgid "loading"
+msgstr ""
+
+#: header.php:70
+msgid "Menu"
+msgstr ""
+
+#: header.php:91
+msgid "View Shopping Cart"
+msgstr ""
+
+#: header.php:98
+msgid "Login / Register"
+msgstr ""
+
+#: nothing-found.php:1
+msgid "Nothing Found"
+msgstr ""
+
+#: nothing-found.php:4
+msgid "Ready to publish your first post? Get started here."
+msgstr ""
+
+#: nothing-found.php:9
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr ""
+
+#: nothing-found.php:11
+msgid "Back to Home Page"
+msgstr ""
+
+#: search.php:9
+msgid "Search Result"
+msgstr ""
+
+#: search.php:24
+#: search.php:54
+#: search.php:81
+#: search.php:114
+#: search.php:141
+#: search.php:166
+#: search.php:198
+msgid "You searched: "
+msgstr ""
+
+#: searchform.php:2
+#: sidebar.php:5
+msgid "Type here..."
+msgstr ""
+
+#: searchform.php:3
+#: sidebar.php:6
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:3
+msgid "Search Here"
+msgstr ""
+
+#: single.php:52
+#: single.php:130
+msgid "Related Posts:-"
+msgstr ""
+
+#: single.php:93
+#: single.php:171
+msgid "No related posts found."
+msgstr ""
+
+#: template-parts/content-audio.php:30
+#: template-parts/content-gallery.php:19
+#: template-parts/content-grid.php:31
+#: template-parts/content-image.php:16
+#: template-parts/content-video.php:29
+#: template-parts/content.php:31
+msgid "0"
+msgstr ""
+
+#: template-parts/content-audio.php:30
+#: template-parts/content-gallery.php:19
+#: template-parts/content-grid.php:31
+#: template-parts/content-image.php:16
+#: template-parts/content-video.php:29
+#: template-parts/content.php:31
+msgid "1"
+msgstr ""
+
+#: template-parts/content-audio.php:30
+#: template-parts/content-gallery.php:19
+#: template-parts/content-grid.php:31
+#: template-parts/content-image.php:16
+#: template-parts/content-video.php:29
+#: template-parts/content.php:31
+msgid "%"
+msgstr ""
+
+#: template-parts/content-audio.php:30
+#: template-parts/content-gallery.php:19
+#: template-parts/content-grid.php:32
+#: template-parts/content-image.php:16
+#: template-parts/content-video.php:29
+#: template-parts/content.php:32
+msgid "comments"
+msgstr ""
+
+#: template-parts/content-post.php:9
+msgid "Tags:"
+msgstr ""
+
+#: template-parts/pagination.php:3
+msgid "Previous page"
+msgstr ""
+
+#: template-parts/pagination.php:4
+msgid "Next page"
+msgstr ""
+
+#: woocommerce/archive-product.php:28
+msgid "Archive Product Page"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:32
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:99
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/single-product.php:31
+msgid "Single Product Page"
+msgstr ""

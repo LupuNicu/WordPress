@@ -1,0 +1,14 @@
+# Fiecare laborator (wp_lab2, wp_lab3, …) — WordPress
+**/wp-config.php
+**/wp-content/uploads/
+**/wp-content/cache/
+**/wp-content/upgrade/
+**/*.log
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~

@@ -1,0 +1,154 @@
+0000.016 () Opened log file at time: Wed, 08 Apr 2026 15:22:44 +0000 on http://localhost/WordPress/wp_lab5
+0000.018 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.26.2 WP: 6.9.4 PHP: 8.2.12 (apache2handler, Windows NT DESKTOP-7EFFO4G 10.0 build 26100 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=33554432) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 53.8M | 56M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: N
+0000.019 () Free space on disk containing Updraft's temporary directory: 202201.1 MB
+0000.053 () Restore setup, now closing connection and starting restore over AJAX.
+0000.013 () Opened log file at time: Wed, 08 Apr 2026 15:22:45 +0000 on http://localhost/WordPress/wp_lab5
+0000.015 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.26.2 WP: 6.9.4 PHP: 8.2.12 (apache2handler, Windows NT DESKTOP-7EFFO4G 10.0 build 26100 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=33554432) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 49.9M | 52M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: N
+0000.015 () Free space on disk containing Updraft's temporary directory: 202201.1 MB
+0000.044 () Ensuring WP_Filesystem is setup for a restore
+0000.049 () WP_Filesystem is setup and ready for a restore
+0000.054 () Restore job started. Entities to restore: db. Restore options: {"include_unspecified_tables":false,"tables_to_restore":["wp_options","wp_users","wp_usermeta","wp_commentmeta","wp_comments","wp_links","wp_postmeta","wp_posts","wp_term_relationships","wp_term_taxonomy","wp_termmeta","wp_terms","wp_aiowps_audit_log","wp_aiowps_debug_log","wp_aiowps_events","wp_aiowps_global_meta","wp_aiowps_logged_in_users","wp_aiowps_login_lockdown","wp_aiowps_message_store","wp_aiowps_permanent_block","wp_burst_archived_months","wp_burst_browser_versions","wp_burst_browsers","wp_burst_devices","wp_burst_goal_statistics","wp_burst_goals","wp_burst_known_uids","wp_burst_platforms","wp_burst_query_stats","wp_burst_referrers","wp_burst_report_logs","wp_burst_reports","wp_burst_sessions","wp_burst_statistics","wp_tm_taskmeta","wp_tm_tasks","wp_wpo_404_detector"],"tables_to_skip":[],"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.062 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.065 () Entity: db
+0000.065 () restore_backup(backup_file=backup_2026-04-08-1520_lab5_cdb300459d10-db.gz, type=db, info=a:0:{}, last_one=1)
+0000.066 () Unpacking backup... (backup_2026-04-08-1520_lab5_cdb300459d10-db.gz, 0.2 Mb)
+0000.072 () Database successfully unpacked
+0000.073 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.074 () Using direct MySQL access; value of use_mysqli is: 1
+0000.074 () SQL compatibility mode is: NO_AUTO_VALUE_ON_ZERO,NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0000.117 () Max packet size: 32 MB
+0000.117 () Entering maintenance mode
+0000.117 () Enabling Maintenance mode&#8230;
+0000.135 () Backup of: http://localhost/WordPress/wp_lab5
+0000.151 () Content URL: http://localhost/WordPress/wp_lab5/wp-content
+0000.152 () Uploads URL: http://localhost/WordPress/wp_lab5/wp-content/uploads
+0000.152 () Old table prefix: wp_
+0000.152 () UpdraftPlus plugin slug: updraftplus/updraftplus.php
+0000.152 () Site information: multisite=0
+0000.152 () Site information: sql_mode=NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0000.154 () Skipped execution of SQL statement (unwanted or internally handled type=18): /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+0000.154 () New table prefix: e8_
+0000.157 () Processing table (InnoDB): wp_options - will restore as: e8_options
+0000.233 () Atomic restore: dropping original table (wp_options)
+0000.240 () Atomic restore: renaming new table (e8_options) to final table name (wp_options)
+0000.246 () Restoring prior UD configuration (table: wp_options; keys: 4)
+0000.259 () Processing table (InnoDB): wp_users - will restore as: e8_users
+0000.283 () Atomic restore: dropping original table (wp_users)
+0000.292 () Atomic restore: renaming new table (e8_users) to final table name (wp_users)
+0000.297 () Processing table (InnoDB): wp_usermeta - will restore as: e8_usermeta
+0000.310 () Atomic restore: dropping original table (wp_usermeta)
+0000.315 () Atomic restore: renaming new table (e8_usermeta) to final table name (wp_usermeta)
+0000.319 () Processing table (InnoDB): wp_commentmeta - will restore as: e8_commentmeta
+0000.329 () Atomic restore: dropping original table (wp_commentmeta)
+0000.334 () Atomic restore: renaming new table (e8_commentmeta) to final table name (wp_commentmeta)
+0000.339 () Processing table (InnoDB): wp_comments - will restore as: e8_comments
+0000.351 () Atomic restore: dropping original table (wp_comments)
+0000.358 () Atomic restore: renaming new table (e8_comments) to final table name (wp_comments)
+0000.364 () Processing table (InnoDB): wp_links - will restore as: e8_links
+0000.374 () Atomic restore: dropping original table (wp_links)
+0000.379 () Atomic restore: renaming new table (e8_links) to final table name (wp_links)
+0000.383 () Processing table (InnoDB): wp_postmeta - will restore as: e8_postmeta
+0000.394 () Atomic restore: dropping original table (wp_postmeta)
+0000.399 () Atomic restore: renaming new table (e8_postmeta) to final table name (wp_postmeta)
+0000.404 () Processing table (InnoDB): wp_posts - will restore as: e8_posts
+0000.417 () Atomic restore: dropping original table (wp_posts)
+0000.422 () Atomic restore: renaming new table (e8_posts) to final table name (wp_posts)
+0000.426 () Processing table (InnoDB): wp_term_relationships - will restore as: e8_term_relationships
+0000.436 () Atomic restore: dropping original table (wp_term_relationships)
+0000.441 () Atomic restore: renaming new table (e8_term_relationships) to final table name (wp_term_relationships)
+0000.446 () Processing table (InnoDB): wp_term_taxonomy - will restore as: e8_term_taxonomy
+0000.457 () Atomic restore: dropping original table (wp_term_taxonomy)
+0000.461 () Atomic restore: renaming new table (e8_term_taxonomy) to final table name (wp_term_taxonomy)
+0000.465 () Processing table (InnoDB): wp_termmeta - will restore as: e8_termmeta
+0000.474 () Atomic restore: dropping original table (wp_termmeta)
+0000.478 () Atomic restore: renaming new table (e8_termmeta) to final table name (wp_termmeta)
+0000.482 () Processing table (InnoDB): wp_terms - will restore as: e8_terms
+0000.492 () Atomic restore: dropping original table (wp_terms)
+0000.496 () Atomic restore: renaming new table (e8_terms) to final table name (wp_terms)
+0000.500 () Processing table (InnoDB): wp_aiowps_audit_log - will restore as: e8_aiowps_audit_log
+0000.512 () Atomic restore: dropping original table (wp_aiowps_audit_log)
+0000.516 () Atomic restore: renaming new table (e8_aiowps_audit_log) to final table name (wp_aiowps_audit_log)
+0000.519 () Processing table (InnoDB): wp_aiowps_debug_log - will restore as: e8_aiowps_debug_log
+0000.531 () Atomic restore: dropping original table (wp_aiowps_debug_log)
+0000.534 () Atomic restore: renaming new table (e8_aiowps_debug_log) to final table name (wp_aiowps_debug_log)
+0000.540 () Processing table (InnoDB): wp_aiowps_events - will restore as: e8_aiowps_events
+0000.548 () Atomic restore: dropping original table (wp_aiowps_events)
+0000.551 () Atomic restore: renaming new table (e8_aiowps_events) to final table name (wp_aiowps_events)
+0000.556 () Processing table (InnoDB): wp_aiowps_global_meta - will restore as: e8_aiowps_global_meta
+0000.563 () Database queries processed: 50 in 0.49 seconds
+0000.563 () Atomic restore: dropping original table (wp_aiowps_global_meta)
+0000.568 () Atomic restore: renaming new table (e8_aiowps_global_meta) to final table name (wp_aiowps_global_meta)
+0000.572 () Processing table (InnoDB): wp_aiowps_logged_in_users - will restore as: e8_aiowps_logged_in_users
+0000.582 () Atomic restore: dropping original table (wp_aiowps_logged_in_users)
+0000.587 () Atomic restore: renaming new table (e8_aiowps_logged_in_users) to final table name (wp_aiowps_logged_in_users)
+0000.591 () Processing table (InnoDB): wp_aiowps_login_lockdown - will restore as: e8_aiowps_login_lockdown
+0000.600 () Atomic restore: dropping original table (wp_aiowps_login_lockdown)
+0000.604 () Atomic restore: renaming new table (e8_aiowps_login_lockdown) to final table name (wp_aiowps_login_lockdown)
+0000.608 () Processing table (InnoDB): wp_aiowps_message_store - will restore as: e8_aiowps_message_store
+0000.616 () Atomic restore: dropping original table (wp_aiowps_message_store)
+0000.621 () Atomic restore: renaming new table (e8_aiowps_message_store) to final table name (wp_aiowps_message_store)
+0000.624 () Processing table (InnoDB): wp_aiowps_permanent_block - will restore as: e8_aiowps_permanent_block
+0000.634 () Atomic restore: dropping original table (wp_aiowps_permanent_block)
+0000.647 () Atomic restore: renaming new table (e8_aiowps_permanent_block) to final table name (wp_aiowps_permanent_block)
+0000.655 () Processing table (InnoDB): wp_burst_archived_months - will restore as: e8_burst_archived_months
+0000.671 () Atomic restore: dropping original table (wp_burst_archived_months)
+0000.678 () Atomic restore: renaming new table (e8_burst_archived_months) to final table name (wp_burst_archived_months)
+0000.696 () Processing table (InnoDB): wp_burst_browser_versions - will restore as: e8_burst_browser_versions
+0000.726 () Atomic restore: dropping original table (wp_burst_browser_versions)
+0000.733 () Atomic restore: renaming new table (e8_burst_browser_versions) to final table name (wp_burst_browser_versions)
+0000.763 () Processing table (InnoDB): wp_burst_browsers - will restore as: e8_burst_browsers
+0000.776 () Atomic restore: dropping original table (wp_burst_browsers)
+0000.786 () Atomic restore: renaming new table (e8_burst_browsers) to final table name (wp_burst_browsers)
+0000.795 () Processing table (InnoDB): wp_burst_devices - will restore as: e8_burst_devices
+0000.809 () Atomic restore: dropping original table (wp_burst_devices)
+0000.814 () Atomic restore: renaming new table (e8_burst_devices) to final table name (wp_burst_devices)
+0000.819 () Processing table (InnoDB): wp_burst_goal_statistics - will restore as: e8_burst_goal_statistics
+0000.829 () Atomic restore: dropping original table (wp_burst_goal_statistics)
+0000.834 () Atomic restore: renaming new table (e8_burst_goal_statistics) to final table name (wp_burst_goal_statistics)
+0000.837 () Processing table (InnoDB): wp_burst_goals - will restore as: e8_burst_goals
+0000.846 () Atomic restore: dropping original table (wp_burst_goals)
+0000.850 () Atomic restore: renaming new table (e8_burst_goals) to final table name (wp_burst_goals)
+0000.854 () Processing table (InnoDB): wp_burst_known_uids - will restore as: e8_burst_known_uids
+0000.899 () Atomic restore: dropping original table (wp_burst_known_uids)
+0000.905 () Atomic restore: renaming new table (e8_burst_known_uids) to final table name (wp_burst_known_uids)
+0000.909 () Processing table (InnoDB): wp_burst_platforms - will restore as: e8_burst_platforms
+0000.918 () Atomic restore: dropping original table (wp_burst_platforms)
+0000.922 () Atomic restore: renaming new table (e8_burst_platforms) to final table name (wp_burst_platforms)
+0000.926 () Processing table (InnoDB): wp_burst_query_stats - will restore as: e8_burst_query_stats
+0000.935 () Atomic restore: dropping original table (wp_burst_query_stats)
+0000.939 () Atomic restore: renaming new table (e8_burst_query_stats) to final table name (wp_burst_query_stats)
+0000.944 () Processing table (InnoDB): wp_burst_referrers - will restore as: e8_burst_referrers
+0000.955 () Atomic restore: dropping original table (wp_burst_referrers)
+0000.961 () Atomic restore: renaming new table (e8_burst_referrers) to final table name (wp_burst_referrers)
+0000.967 () Processing table (InnoDB): wp_burst_report_logs - will restore as: e8_burst_report_logs
+0000.985 () Atomic restore: dropping original table (wp_burst_report_logs)
+0000.992 () Atomic restore: renaming new table (e8_burst_report_logs) to final table name (wp_burst_report_logs)
+0000.999 () Processing table (InnoDB): wp_burst_reports - will restore as: e8_burst_reports
+0001.012 () Atomic restore: dropping original table (wp_burst_reports)
+0001.019 () Atomic restore: renaming new table (e8_burst_reports) to final table name (wp_burst_reports)
+0001.025 () Processing table (InnoDB): wp_burst_sessions - will restore as: e8_burst_sessions
+0001.057 () Atomic restore: dropping original table (wp_burst_sessions)
+0001.065 () Atomic restore: renaming new table (e8_burst_sessions) to final table name (wp_burst_sessions)
+0001.072 () Processing table (InnoDB): wp_burst_statistics - will restore as: e8_burst_statistics
+0001.092 () Atomic restore: dropping original table (wp_burst_statistics)
+0001.104 () Atomic restore: renaming new table (e8_burst_statistics) to final table name (wp_burst_statistics)
+0001.111 () Processing table (InnoDB): wp_tm_taskmeta - will restore as: e8_tm_taskmeta
+0001.124 () Atomic restore: dropping original table (wp_tm_taskmeta)
+0001.132 () Atomic restore: renaming new table (e8_tm_taskmeta) to final table name (wp_tm_taskmeta)
+0001.138 () Processing table (InnoDB): wp_tm_tasks - will restore as: e8_tm_tasks
+0001.156 () Atomic restore: dropping original table (wp_tm_tasks)
+0001.166 () Atomic restore: renaming new table (e8_tm_tasks) to final table name (wp_tm_tasks)
+0001.175 () Processing table (InnoDB): wp_wpo_404_detector - will restore as: e8_wpo_404_detector
+0001.196 () Database queries processed: 100 in 1.12 seconds
+0001.197 () Skipped execution of SQL statement (unwanted or internally handled type=18): /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+0001.210 () Unlocking database and leaving maintenance mode
+0001.210 () Disabling Maintenance mode&#8230;
+0001.211 () Atomic restore: dropping original table (wp_wpo_404_detector)
+0001.217 () Atomic restore: renaming new table (e8_wpo_404_detector) to final table name (wp_wpo_404_detector)
+0001.224 () Finished: lines processed: 102 in 1.15 seconds
+0001.225 () Cleaning up rubbish...
+0001.226 () Begin search and replace (updraftplus_restored_db)
+0001.226 () [Database-replace-site-url] Database: search and replace site URL
+0001.226 () This option was not selected.
+0001.263 () Restore successful!
+0001.263 () Restore successful

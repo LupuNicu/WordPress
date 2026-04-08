@@ -1,0 +1,102 @@
+/*
+Theme Name: USM Theme
+Theme URI: http://localhost/wp_lab3
+Author: Student USM
+Description: Tema simpla pentru Lucrarea de laborator nr. 3.
+Version: 1.0
+Text Domain: usm-theme
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background: #f5f7fb;
+  color: #222;
+}
+
+a {
+  color: #0b5ed7;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-header {
+  background: #1f2937;
+  color: #fff;
+  padding: 16px 0;
+}
+
+.container {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0 16px;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 28px;
+}
+
+.site-description {
+  margin: 4px 0 0;
+  color: #d1d5db;
+}
+
+.content-wrap {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 24px;
+  margin: 24px 0;
+}
+
+.main-content,
+.sidebar {
+  background: #fff;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.post-card {
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.post-card:last-child {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+
+.site-footer {
+  background: #111827;
+  color: #e5e7eb;
+  padding: 18px 0;
+  margin-top: 24px;
+}
+
+.archive-title,
+.single-title,
+.page-title {
+  margin-top: 0;
+}
+
+.comments-area {
+  margin-top: 24px;
+  padding-top: 18px;
+  border-top: 1px solid #e5e7eb;
+}
+
+@media (max-width: 860px) {
+  .content-wrap {
+    grid-template-columns: 1fr;
+  }
+}
